@@ -32,6 +32,6 @@ All implementation details please read the manual documentation.
 
 References for citation:
 
--Kui Yu, Xianjie Guo, Lin Liu, Jiuyong Li, Hao Wang, Zhaolong Ling, and Xindong Wu. Causality-based Feature Selection: Methods and Evaluations. arXiv:1911.07147 [cs.LG], 2019.
+-Kui Yu, Xianjie Guo, Lin Liu, Jiuyong Li, Hao Wang, Zhaolong Ling, and Xindong Wu. Causality-based Feature Selection: Methods and Evaluations. ACM Computing Surveys (CSUR) 53, no. 5 (2020): 1-36.
 
 -Kui Yu, Lin Liu, and Jiuyong Li. A unified View of Causal and Non-causal Feature Selection. arXiv:1802.05844 [cs.AI] (2018).
