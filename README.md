@@ -1,8 +1,8 @@
 # CausalFS: An open-source package of causality-based feature selection
 
-The CausalFS package provides a comprehensive open-source library for use in C/C++ that implements the state-of-the-art algorithms of causality-based feature selection and was developed in Linux systems. The package is designed to facilitate the development of new algorithms in this exciting research direction and make it easy to compare new methods and existing ones.
+The CausalFS package provides a comprehensive open-source library for use in C/C++ that implements the state-of-the-art local causal structure learning approaches to feature selection and was developed in Linux systems. The package is designed to facilitate the development of new algorithms in this exciting research direction and make it easy to compare new feature selection methods and existing ones.
 
-The CausalFS package implements 28 representative causality-based feature selection methods. Specifically, it consists of 24 methods using conditional independence tests (i.e., 16 single Markov boundary (MB) learning algorithms, 2 multiple MB learning algorithms, and 6 PC (parents and children) learning algorithms), and 4 score-based MB and PC learning approaches. 
+The CausalFS package implements 28 representative local causal structure learning methods for feature selection. Specifically, it consists of 24 methods using conditional independence tests (i.e., 16 single Markov boundary (MB) learning algorithms, 2 multiple MB learning algorithms, and 6 PC (parents and children) learning algorithms), and 4 score-based MB and PC learning approaches. 
 
 Constraint-based MB learning methods:
 
