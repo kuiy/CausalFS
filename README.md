@@ -1,4 +1,4 @@
-# CausalFS: An open-source package of causality-based feature selection algorithms
+# CausalFS: An open-source package of causal feature selection and causal (Bayesian network) structure learning (C++ version)
 
 The CausalFS package provides a comprehensive open-source library for use in C/C++ that implements the state-of-the-art local causal structure learning approaches to feature selection and was developed in Linux systems. The package is designed to facilitate the development of new algorithms in this exciting research direction and make it easy to compare new feature selection methods and existing ones.
 
@@ -34,4 +34,4 @@ References for citation:
 
 -Kui Yu, Xianjie Guo, Lin Liu, Jiuyong Li, Hao Wang, Zhaolong Ling, and Xindong Wu. Causality-based Feature Selection: Methods and Evaluations. ACM Computing Surveys (CSUR) 53, no. 5 (2020): 1-36.
 
--Kui Yu, Lin Liu, and Jiuyong Li. A unified View of Causal and Non-causal Feature Selection. arXiv:1802.05844 [cs.AI] (2018).
+-Kui Yu, Lin Liu, and Jiuyong Li. A unified View of Causal and Non-causal Feature Selection. ACM Transactions on Knowledge Discovery from Data, in press (2020).
